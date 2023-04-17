@@ -1,0 +1,535 @@
+﻿id,name,category_name,latitude,longitude
+338,Yerevan State University,Բուհեր,40.181882,44.526311
+339,Երևանի Կոմիտասի անվան պետական կոնսերվատորիա,Բուհեր,40.187205,44.516934
+340,Երևանի Խաչատուր Աբովյանի անվան հայկական պետական մանկավարժական համալսարան,Բուհեր,40.173668,44.515067
+341,Հայաստանի պետական ագրարային համալսարան,Բուհեր,40.19066,44.525313
+342,Հայաստանի պետական տնտեսագիտական համալսարան,Բուհեր,40.184312,44.524782
+343,Երևանի ճարտարապետության և շինարարության պետական համալսարան,Բուհեր,40.19093,44.522926
+344,Հայաստանի ամերիկյան համալսարան,Բուհեր,40.193422,44.504221
+345,Երևանի Մխիթար Հերացու անվան պետական բժշկական համալսարան,Բուհեր,40.177756,44.512543
+346,Ֆիզիկական կուլտուրայի հայկական համալսարան,Բուհեր,40.176053,44.523854
+347,"LINGUISTIC UNIVERSITY AFTER ""V. BRUSOV""",Բուհեր,40.187098,44.511363
+348,Russian - Armenian (Slavonic) University,Բուհեր,40.210515,44.503437
+349,State Engineering University of Armenia,Բուհեր,40.19093,44.522926
+350,Yerevan State Academy of Fine Arts,Բուհեր,40.189418,44.516623
+351,Yerevan State Institute of Theater and Cinema,Բուհեր,40.18257,44.506213
+379,Yerevan basic school №1 named after Stepan Shahumyan,Դպրոցներ,40.185427,44.512469
+380,Yerevan children's care and protection boarding school №2,Դպրոցներ,40.189494,44.535717
+381,Evening secondary school for the blind,Դպրոցներ,40.207806,44.520653
+382,Yerevan basic school №2 named after Khachatur Abovyan,Դպրոցներ,40.188993,44.518995
+384,Yerevan basic school №4 named after  Levon Shant,Դպրոցներ,40.173965,44.521801
+385,Yerevan special educational complex №8,Դպրոցներ,40.222693,44.533395
+386,Yerevan basic school №6 named after  Hakob Karapents,Դպրոցներ,40.154833,44.512446
+387,Yerevan basic school №7 named after  Vladimir Mayakovski,Դպրոցներ,40.173397,44.506127
+388,Yerevan basic school №8 named after  Alexander Pushkin,Դպրոցներ,40.186204,44.520467
+389,Yerevan basic school №12 named after Victor Hambardzumyan,Դպրոցներ,40.151729,44.48767
+390,Yerevan basic school №13 named after Ernst Thaelmann,Դպրոցներ,40.165322,44.504069
+391,“Hakob Kojoyan” educational complex,Դպրոցներ,40.176244,44.502704
+392,Yerevan basic school №18 named after Muratsan,Դպրոցներ,40.151665,44.484134
+393,Yerevan basic school №19 named after Nikol Aghbalyan,Դպրոցներ,40.18566,44.518538
+394,Yerevan basic school №20 named after John Kirakosyan,Դպրոցներ,40.176811,44.525841
+395,Yerevan basic school №21 named after Alexander Shirvanzade,Դպրոցներ,40.204392,44.497823
+396,Yerevan basic school №22,Դպրոցներ,40.207776,44.453363
+398,Yerevan basic school №24 named after Suren Spandaryan,Դպրոցներ,40.17796,44.502437
+399,Yerevan basic school №31,Դպրոցներ,40.151563,44.47772
+400,School N32 after Hovhannes Tumanyan,Դպրոցներ,40.15236,44.50065
+401,Yerevan basic school №34 named after Stepan Lisitsyan,Դպրոցներ,40.16365,44.511765
+402,Yerevan basic school №35 named after Nikolay Gogol,Դպրոցներ,40.141703,44.518358
+403,Yerevan basic school №36 named after Raffi,Դպրոցներ,40.207485,44.509652
+404,Yerevan basic school №38 named after Vissarion Belinsky,Դպրոցներ,40.151552,44.49263
+405,Yerevan basic school №39 named after Timoshenko,Դպրոցներ,40.160964,44.520406
+406,Yerevan basic school №40 named after Arshavir Shavarshyan,Դպրոցներ,40.1696,44.521402
+408,Yerevan basic school №48 named after Misak Manushyan,Դպրոցներ,40.20115,44.538471
+409,Yerevan basic school № 51 named after Vardges Petrosyan,Դպրոցներ,40.204632,44.51553
+410,Yerevan basic school № 52 named afterHovhannes Hovhannisyan,Դպրոցներ,40.14285,44.465817
+411,Yerevan basic school № 53 named after Aghasi Khanjyan,Դպրոցներ,40.167766,44.512446
+412,Yerevan basic school № 55 named after Anton Chekhov,Դպրոցներ,40.1917,44.510491
+413,Yerevan basic school № 56 named after Stepan Zoryan,Դպրոցներ,40.169971,44.517934
+414,Yerevan basic school № 57 named after Vahan Totovents,Դպրոցներ,40.173459,44.512406
+415,Yerevan basic school № 59 named after Hakob Paronyan,Դպրոցներ,40.201949,44.528103
+416,Yerevan basic school № 60 named after Vahan Teryan,Դպրոցներ,40.199731,44.52637
+417,Yerevan basic school № 63 named after Ghazaros Aghayan,Դպրոցներ,40.195712,44.488697
+418,Yerevan basic school № 66 named after Alexander Myasnikyan,Դպրոցներ,40.153517,44.480834
+419,Yerevan basic school № 67 named after Yeghishe Charents,Դպրոցներ,40.179552,44.50904
+420,Yerevan basic school № 68 named after Mushegh Mkhoyan,Դպրոցներ,40.140714,44.516735
+421,Yerevan basic school № 69 named after Andrey Sakharov,Դպրոցներ,40.14773,44.483975
+422,Yerevan basic school № 64,Դպրոցներ,40.142109,44.541736
+423,Yerevan basic school № 71 named after Nelson Stepanyan,Դպրոցներ,40.178523,44.521678
+425,Yerevan basic school № 74 named after  Hunan Avetisyan,Դպրոցներ,40.149906,44.485995
+426,Republic of Argentina Yerevan basic school №76,Դպրոցներ,40.192812,44.500409
+427,Yerevan basic school № 77 named after  Ruben Miroyan,Դպրոցներ,40.210739,44.52608
+428,Yerevan basic school № 78 named after  Hayrapet Hayrapetyan,Դպրոցներ,40.193901,44.497978
+429,Yerevan basic school № 79 named after Movses Jambazian,Դպրոցներ,40.149134,44.460552
+431,Yerevan basic school № 82 named after Hovhannes Poghosyan,Դպրոցներ,40.209245,44.512396
+432,Yerevan basic school № 84 named after  Khachatur Abovyan,Դպրոցներ,40.227181,44.546223
+433,Yerevan basic school № 85 named after Samvel Shahmuradyan,Դպրոցներ,40.222536,44.537933
+434,Yerevan basic school № 86 named after Martiros Saryan,Դպրոցներ,40.153599,44.4782
+435,Yerevan basic school № 89 named after Daniel Varuzhan,Դպրոցներ,40.185726,44.462192
+436,Yerevan basic school № 90 named after  Vahan Zatikyan,Դպրոցներ,40.17503,44.45941
+437,Yerevan basic school № 91,Դպրոցներ,40.165656,44.455256
+438,Yerevan basic school № 95 named after Ghevond Alishan,Դպրոցներ,40.087728,44.546559
+439,Yerevan basic school № 98,Դպրոցներ,40.113281,44.47189
+440,Yerevan basic school № 100,Դպրոցներ,40.205005,44.477404
+441,Yerevan secondary school №101,Դպրոցներ,40.144424,44.565544
+442,Yerevan basic school № 102,Դպրոցներ,40.203034,44.476626
+443,Yerevan basic school № 104,Դպրոցներ,40.210034,44.561854
+444,Vardanants Aspetner Yerevan basic school №106,Դպրոցներ,40.197796,44.559934
+445,Yerevan secondary school №107,Դպրոցներ,40.139398,44.562877
+446,Yerevan secondary school №108,Դպրոցներ,40.210734,44.439222
+447,Yerevan basic school № 110,Դպրոցներ,40.147295,44.486605
+448,Yerevan basic school № 111,Դպրոցներ,40.190457,44.45583
+449,Yerevan basic school № 113 named after Norik Khachatryan,Դպրոցներ,40.187617,44.427456
+450,Yerevan basic school № 116,Դպրոցներ,40.170161,44.460688
+451,Yerevan basic school № 117 named after Kostan Zaryan,Դպրոցներ,40.220958,44.538291
+452,Yerevan basic school № 120,Դպրոցներ,40.157725,44.51851
+453,Yerevan basic school № 121 named after Eduard Boyajyan,Դպրոցներ,40.184673,44.454205
+454,Ալեքսանդր Բլոկի անվան հ. 122 հիմնական դպրոց,Դպրոցներ,40.192427,44.476731
+455,Yerevan basic school № 123 named after Paruyr Sevak,Դպրոցներ,40.148597,44.487038
+456,Yerevan basic school № 124,Դպրոցներ,40.218379,44.564489
+457,Yerevan basic school № 125 named after Smbat Byurat,Դպրոցներ,40.202264,44.544151
+458,Yerevan basic school № 126 named after  Henry Morgenthau,Դպրոցներ,40.196833,44.47755
+459,Yerevan basic school № 128 named after  Lev Tolstoy,Դպրոցներ,40.201107,44.520942
+460,Yerevan basic school № 129 named after  Gay(Hayk Bjshkyants),Դպրոցներ,40.203154,44.505024
+461,Yerevan basic school № 130 named after  Nairi Zaryan,Դպրոցներ,40.177756,44.512543
+462,Yerevan basic school № 131 named after  P. Yavorov,Դպրոցներ,40.193723,44.470435
+463,Yerevan basic school № 132 named after  Admiral Isakov,Դպրոցներ,40.206538,44.502416
+464,Yerevan basic school № 133 named after Garnik Addaryan,Դպրոցներ,40.201456,44.576772
+465,Yerevan basic school № 134,Դպրոցներ,40.199822,44.560455
+466,Yerevan basic school № 135 named after  G. Stepanyan,Դպրոցներ,40.201089,44.572286
+467,Yerevan basic school № 136,Դպրոցներ,40.208854,44.545019
+468,Yerevan basic school № 137 named after  Grigor Narekatsi,Դպրոցներ,40.147069,44.486509
+469,Yerevan basic school № 138 named after  William Saroyan,Դպրոցներ,40.208511,44.470222
+470,Yerevan basic school № 140,Դպրոցներ,40.12317,44.475954
+471,Yerevan basic school № 141 named after  G. Baghyan,Դպրոցներ,40.187319,44.573267
+472,Yerevan basic school № 143 named after  Movses Khorenatsi,Դպրոցներ,40.15508,44.483553
+473,Yerevan basic school № 144,Դպրոցներ,40.153429,44.494278
+474,Yerevan basic school № 145 named after  S. Kaputikyan,Դպրոցներ,40.207219,44.498829
+475,Yerevan basic school № 146 named after  Misak Metsarents,Դպրոցներ,40.192845,44.455548
+476,Yerevan basic school № 147 after Robert Abajyan,Դպրոցներ,40.197365,44.527984
+477,Yerevan basic school № 150 named after  F.Nansen,Դպրոցներ,40.190157,44.572112
+478,Yerevan basic school № 151 named after  Ruben Sevak,Դպրոցներ,40.200011,44.513663
+479,Yerevan basic school № 152,Դպրոցներ,40.148389,44.483238
+480,Yerevan basic school № 153 named after  R. Ishkhanyan,Դպրոցներ,40.196892,44.469562
+481,Yerevan basic school № 154,Դպրոցներ,40.148804,44.495115
+482,Yerevan basic school № 155 named after  L. Mirijanyan,Դպրոցներ,40.205515,44.466543
+483,Yerevan basic school № 156,Դպրոցներ,40.204536,44.462399
+484,Yerevan basic school № 158 named after  Movses Gorgisyan,Դպրոցներ,40.144715,44.464104
+485,Yerevan basic school № 160,Դպրոցներ,40.129835,44.528881
+486,Yerevan basic school № 161 named after  Garegin Nzhdeh,Դպրոցներ,40.151665,44.484134
+487,Yerevan basic school № 162 named after  Siamanto,Դպրոցներ,40.166499,44.444702
+488,Yerevan basic school № 163,Դպրոցներ,40.193688,44.562604
+489,Yerevan basic school № 164 named after  N. Safaryan,Դպրոցներ,40.204305,44.569476
+491,Yerevan basic school № 166 named after  A. Mikoyan,Դպրոցներ,40.183811,44.570942
+492,Yerevan basic school № 167,Դպրոցներ,40.159933,44.532478
+493,Yerevan basic school №168 named after Catholicos of All Armenians Vazgen the First,Դպրոցներ,40.202176,44.464157
+494,Yerevan basic school № 169 named after  H. Shiraz,Դպրոցներ,40.147047,44.454557
+495,Yerevan basic school № 173 amed after  Vahagn Vardevanyan,Դպրոցներ,40.151563,44.47772
+496,Yerevan basic school № 171,Դպրոցներ,40.216812,44.577027
+497,Yerevan basic school № 172 amed after  Hakob Oshakan,Դպրոցներ,40.19475,44.495778
+498,Yerevan basic school № 174,Դպրոցներ,40.175504,44.441914
+499,Yerevan basic school № 176 amed after  G. Mahari,Դպրոցներ,40.176012,44.455804
+500,Yerevan basic school № 177 amed after Galina Starovoytova,Դպրոցներ,40.170919,44.464024
+501,Yerevan secondary school №178,Դպրոցներ,40.126639,44.525571
+502,Yerevan basic school № 179,Դպրոցներ,40.177895,44.453249
+503,Yerevan basic school № 180,Դպրոցներ,40.212447,44.565485
+504,Yerevan secondary school №181,Դպրոցներ,40.172207,44.434989
+505,Yerevan basic school № 191 named after David Hovsepyan,Դպրոցներ,40.176187,44.446368
+506,Yerevan basic school № 194 amed after Armen Hovhannisyan,Դպրոցներ,40.14899,44.530476
+507,Yerevan secondary school №197,Դպրոցներ,40.171118,44.561427
+508,Number 2,Մանկապարտեզներ,40.182375,44.51018
+509,Number 3,Մանկապարտեզներ,40.171877,44.522881
+510,Number 4,Մանկապարտեզներ,40.176082,44.503967
+511,Number 5,Մանկապարտեզներ,40.180187,44.51762
+512,Number 6,Մանկապարտեզներ,40.176562,44.519121
+513,Number 7,Մանկապարտեզներ,40.190173,44.518327
+514,Number 8,Մանկապարտեզներ,40.178388,44.527009
+515,Number 9,Մանկապարտեզներ,40.177801,44.519042
+516,Number 10,Մանկապարտեզներ,40.181648,44.508795
+517,Number 11,Մանկապարտեզներ,40.182604,44.501258
+518,Number 12,Մանկապարտեզներ,40.188212,44.515339
+519,Number 13,Մանկապարտեզներ,40.191483,44.504603
+520,Number 14,Մանկապարտեզներ,40.175831,44.489486
+521,Number 15,Մանկապարտեզներ,40.173168,44.527308
+522,Number 16,Մանկապարտեզներ,40.178652,44.520183
+523,Number 17,Մանկապարտեզներ,40.164121,44.512574
+524,Number 18,Մանկապարտեզներ,40.178346,44.526424
+525,Number 21,Մանկապարտեզներ,40.168006,44.513629
+526,Number 22,Մանկապարտեզներ,40.177756,44.512543
+527,Number 23,Մանկապարտեզներ,40.208522,44.510018
+528,Number 24,Մանկապարտեզներ,40.215161,44.523239
+529,Number 25,Մանկապարտեզներ,40.208001,44.525532
+530,Number 26,Մանկապարտեզներ,40.177756,44.512543
+531,Number 27,Մանկապարտեզներ,40.194983,44.487728
+532,Number 28,Մանկապարտեզներ,40.194224,44.486418
+533,Number 29,Մանկապարտեզներ,40.203679,44.501707
+534,Number 30,Մանկապարտեզներ,40.206121,44.519148
+535,Number 31,Մանկապարտեզներ,40.204571,44.505499
+536,Number 32,Մանկապարտեզներ,40.201185,44.497542
+537,Number 33,Մանկապարտեզներ,40.206999,44.504294
+538,Number 35,Մանկապարտեզներ,40.208825,44.470797
+539,Number 36,Մանկապարտեզներ,40.205515,44.466543
+540,Number 37,Մանկապարտեզներ,40.210734,44.439222
+541,Number 38,Մանկապարտեզներ,40.189642,44.478229
+542,Number 39,Մանկապարտեզներ,40.204705,44.471563
+543,Number 40,Մանկապարտեզներ,40.197339,44.478881
+544,Number 41,Մանկապարտեզներ,40.191716,44.470803
+545,Number 42,Մանկապարտեզներ,40.202318,44.479435
+546,Numebr 43,Մանկապարտեզներ,40.203673,44.475587
+547,Number 44,Մանկապարտեզներ,40.207776,44.453363
+548,Number 45,Մանկապարտեզներ,40.189526,44.455487
+549,Number 46,Մանկապարտեզներ,40.177756,44.512543
+550,Number 48,Մանկապարտեզներ,40.214403,44.466511
+551,Number 49,Մանկապարտեզներ,40.215379,44.468472
+552,Number 52,Մանկապարտեզներ,40.215882,44.577266
+553,Number 53,Մանկապարտեզներ,40.218819,44.563571
+554,Number 54,Մանկապարտեզներ,40.21221,44.579346
+555,Number 55,Մանկապարտեզներ,40.221852,44.571327
+556,Number 56,Մանկապարտեզներ,40.221852,44.571327
+557,Number 57,Մանկապարտեզներ,40.211225,44.580198
+558,Number 63,Մանկապարտեզներ,40.154828,44.510714
+559,Number 64,Մանկապարտեզներ,40.129793,44.526493
+560,Number 74,Մանկապարտեզներ,40.133806,44.572772
+561,Number 75,Մանկապարտեզներ,40.146763,44.566616
+562,Number 77,Մանկապարտեզներ,40.177756,44.512543
+563,Number 79,Մանկապարտեզներ,40.181469,44.442513
+564,Number 80 kinderfarten,Մանկապարտեզներ,40.15455,44.477023
+565,Number 81,Մանկապարտեզներ,40.170614,44.468359
+566,Number 83,Մանկապարտեզներ,40.17683,44.447953
+567,Number 84,Մանկապարտեզներ,40.184574,44.44475
+568,Number 85,Մանկապարտեզներ,40.161639,44.432482
+570,Number 88,Մանկապարտեզներ,40.165662,44.464528
+571,Number 89,Մանկապարտեզներ,40.179146,44.450009
+572,Number 90,Մանկապարտեզներ,40.175424,44.463651
+573,Number 91,Մանկապարտեզներ,40.176248,44.459435
+574,Number 92,Մանկապարտեզներ,40.1755,44.447187
+575,Number 93,Մանկապարտեզներ,40.177756,44.512543
+576,Number 94,Մանկապարտեզներ,40.165979,44.443076
+577,Number 96,Մանկապարտեզներ,40.176019,44.444367
+578,Number 97,Մանկապարտեզներ,40.215277,44.56335
+579,Number 98,Մանկապարտեզներ,40.152208,44.490863
+580,Number 99,Մանկապարտեզներ,40.201707,44.562201
+581,Number 100,Մանկապարտեզներ,40.200044,44.561192
+582,Number 101,Մանկապարտեզներ,40.20203,44.569767
+583,Number 102,Մանկապարտեզներ,40.204163,44.570121
+584,Number 103,Մանկապարտեզներ,40.204977,44.569944
+585,Number 104,Մանկապարտեզներ,40.201738,44.566319
+586,Number 105,Մանկապարտեզներ,40.195194,44.567759
+587,Number 108,Մանկապարտեզներ,40.177756,44.512543
+588,Number 109,Մանկապարտեզներ,40.190157,44.572112
+589,Number 110,Մանկապարտեզներ,40.1858,44.596049
+590,Number 111,Մանկապարտեզներ,40.185616,44.567624
+591,Number 112,Մանկապարտեզներ,40.185481,44.568678
+592,Number 114,Մանկապարտեզներ,40.187338,44.561038
+593,Number 116,Մանկապարտեզներ,40.176857,44.565418
+594,Number 117,Մանկապարտեզներ,40.17684,44.563487
+595,Number 118,Մանկապարտեզներ,40.17404,44.574032
+596,Number 119,Մանկապարտեզներ,40.171905,44.563015
+597,Number 120,Մանկապարտեզներ,40.17161,44.564774
+598,Number 121,Մանկապարտեզներ,40.188496,44.539374
+599,Number 122,Մանկապարտեզներ,40.177756,44.512543
+600,Number 125,Մանկապարտեզներ,40.087772,44.546455
+601,Number 126,Մանկապարտեզներ,40.149741,44.495232
+602,Number 127,Մանկապարտեզներ,40.154942,44.482464
+603,Number 128,Մանկապարտեզներ,40.156326,44.477531
+604,Number 129,Մանկապարտեզներ,40.147871,44.463309
+605,Number 131,Մանկապարտեզներ,40.122136,44.474562
+606,Number 132,Մանկապարտեզներ,40.151563,44.47772
+607,Number 133,Մանկապարտեզներ,40.155935,44.487849
+608,Number 135,Մանկապարտեզներ,40.142016,44.466409
+609,Number 136,Մանկապարտեզներ,40.151798,44.483615
+610,Number 137,Մանկապարտեզներ,40.156305,44.490845
+611,Number 138,Մանկապարտեզներ,40.177756,44.512543
+612,Number 139,Մանկապարտեզներ,40.146202,44.48481
+613,Number 140,Մանկապարտեզներ,40.191617,44.576238
+614,Number 141,Մանկապարտեզներ,40.15634,44.49255
+615,Number 142,Մանկապարտեզներ,40.147897,44.45469
+616,Number 143,Մանկապարտեզներ,40.156941,44.484702
+617,Number 144,Մանկապարտեզներ,40.135583,44.488152
+618,Number 145,Մանկապարտեզներ,40.177756,44.512543
+619,Number 146,Մանկապարտեզներ,40.150069,44.476927
+620,Number 147,Մանկապարտեզներ,40.151613,44.49955
+621,Number 148,Մանկապարտեզներ,40.155456,44.478932
+622,Number 149,Մանկապարտեզներ,40.20047,44.537695
+623,Number 150 kindergarten,Մանկապարտեզներ,40.200561,44.504405
+624,Number 151 kindergarten,Մանկապարտեզներ,40.199856,44.5435
+625,Number 152 kindergarten,Մանկապարտեզներ,40.200181,44.521224
+626,Number 153 kindergarten,Մանկապարտեզներ,40.208854,44.545019
+627,Number 155 kindergarten,Մանկապարտեզներ,40.179496,44.512739
+628,Number 156 kindergarten,Մանկապարտեզներ,40.207772,44.542648
+629,Number 157 kindergarten,Մանկապարտեզներ,40.227181,44.546223
+630,Number 158 kindergarten,Մանկապարտեզներ,40.177756,44.512543
+631,Number 159 kindergarten,Մանկապարտեզներ,40.216887,44.536179
+632,Number 161 kindergarten,Մանկապարտեզներ,40.230242,44.551277
+633,Number 162 kindergarten,Մանկապարտեզներ,40.207661,44.542527
+634,Number 47 kindergarten,Մանկապարտեզներ,40.205515,44.466543
+635,Yerevan basic school № 200,Դպրոցներ,40.220107,44.488081
+636,Yerevan basic school № 199 amed after Henrich Khachatryan,Դպրոցներ,40.221057,44.498724
+637,Yerevan basic school № 196 named after Ashot Navasardyan,Դպրոցներ,40.221057,44.498724
+638,Yerevan basic school № 192 after G. Vardanyan,Դպրոցներ,40.224926,44.493197
+639,Yerevan basic school № 188 named after  Gevorg Chaush,Դպրոցներ,40.212408,44.466777
+640,Yerevan secondary school №187,Դպրոցներ,40.185857,44.595486
+641,Yerevan secondary school №186,Դպրոցներ,40.174283,44.573679
+642,Yerevan basic school № 185,Դպրոցներ,40.21095,44.469943
+644,Yerevan basic school № 61 named after Gevorg Atarbekyan,Դպրոցներ,40.179496,44.540377
+645,Yerevan basic school № 70 named after Hamo Sahyan,Դպրոցներ,40.157885,44.528017
+646,Yerevan basic school № 75,Դպրոցներ,40.136686,44.485799
+647,Yerevan basic school № 80 named after Vagharsh Vagharshyan,Դպրոցներ,40.173299,44.493299
+648,Yerevan secondary school №87,Դպրոցներ,40.210687,44.567199
+649,Yerevan basic school № 88 named after  Johannes Lepsius,Դպրոցներ,40.17748,44.5625
+650,Yerevan basic school № 99,Դպրոցներ,40.131214,44.452186
+653,Yerevan basic school №5 named after  Mushegh Ishkhan,Դպրոցներ,40.183464,44.5051
+654,Yerevan basic school №10 named after   Khrimyan Hayrik,Դպրոցներ,40.174721,44.527475
+655,Yerevan basic school №11 named after   Monte Melkonyan,Դպրոցներ,40.177756,44.512543
+656,Yerevan basic school №14 named after Nar-Dos,Դպրոցներ,40.168151,44.518619
+657,Yerevan basic school №17 named after Vrezh Hambardzumyan,Դպրոցներ,40.153769,44.522459
+658,Yerevan basic school №26 named after Armenak Armenakyan,Դպրոցներ,40.185445,44.592773
+659,Yerevan basic school №27 named after Derenik Demirchyan,Դպրոցներ,40.150022,44.472232
+660,School N33 after Michael Nalbandyan,Դպրոցներ,40.165458,44.518235
+661,Yerevan basic school №37,Դպրոցներ,40.218389,44.519053
+662,School N44 after Hrant Dink,Դպրոցներ,40.205607,44.54848
+663,Yerevan basic school № 45,Դպրոցներ,40.14645,44.531391
+664,Yerevan basic school №47 named after Khachik Samuelyan,Դպրոցներ,40.163692,44.526262
+665,Yerevan basic school № 49,Դպրոցներ,40.146815,44.516907
+666,Yerevan basic school № 50,Դպրոցներ,40.157161,44.482969
+667,Park after Komitas and Pantheon,Այգիներ,40.141517,44.494752
+668,Park after Tumanyan,Այգիներ,40.192201,44.479829
+669,English park,Այգիներ,40.174694,44.507476
+670,Park after Shahumyan,Այգիներ,40.177756,44.512543
+671,Children's park,Այգիներ,40.176053,44.506372
+672,"Haghtanak (""Victory"") park",Այգիներ,40.196315,44.517025
+673,Lovers’ park,Այգիներ,40.191518,44.510295
+674,''Ambulance'' CJSC,Հիվանդանոցներ,40.182816,44.49704
+675,“Grigor Narekatsi” MC,Հիվանդանոցներ,40.142165,44.523685
+676,“Kanaker-Zeytun” MC” CJSC,Հիվանդանոցներ,40.205072,44.531608
+677,“Sourb Astvatsamayr” MC,Հիվանդանոցներ,40.152264,44.473991
+678,''Nork-Marash'' MC,Հիվանդանոցներ,40.184068,44.537592
+679,“Antituberculous dispensary” CJSC,Հիվանդանոցներ,40.204608,44.552956
+680,Botanical garden,Այգիներ,40.212703,44.556644
+681,Zoological garden,Այգիներ,40.195594,44.547614
+682,Children’s railway,Այգիներ,40.177756,44.512543
+683,Ajapnyak park,Այգիներ,40.206214,44.479121
+685,“Polyclinic Noragavit” CJSC,Պոլիկլինիկաներ,40.118823,44.474914
+686,“Urban endocrine dispensary”,Հիվանդանոցներ,40.209192,44.516967
+687,Nor Arabkir HC Subsidiary CJSC,Հիվանդանոցներ,40.20161,44.501584
+688,Medical Sanitary unit № 4,Հիվանդանոցներ,40.177756,44.512543
+689,“Polyclinic №1” CJSC,Պոլիկլինիկաներ,40.177756,44.512543
+690,''Polyclinic № 4'' CJSC,Պոլիկլինիկաներ,40.185048,44.522071
+691,''Polyclinic № 5'' CJSC,Պոլիկլինիկաներ,40.177076,44.538384
+692,'Polyclinic № 7'' CJSC,Պոլիկլինիկաներ,40.183167,44.485321
+693,'Polyclinic № 8'' CJSC,Պոլիկլինիկաներ,40.192856,44.498551
+694,“Children's polyclinic №9” CJSC,Պոլիկլինիկաներ,40.165164,44.440968
+695,''Polyclinic №12'' CJSC,Պոլիկլինիկաներ,40.212457,44.569092
+696,“Polyclinic №13” CJSC,Պոլիկլինիկաներ,40.143517,44.491016
+697,“Polyclinic №15” CJSC,Պոլիկլինիկաներ,40.187759,44.462531
+698,''Science Research Institute of Cardiology'' CJSC,Հիվանդանոցներ,40.210409,44.534601
+699,“Polyclinic №17” CJSC,Պոլիկլինիկաներ,40.163627,44.511844
+700,“Polyclinic №19” CJSC,Պոլիկլինիկաներ,40.189765,44.476354
+701,“Polyclinic №20” CJSC,Պոլիկլինիկաներ,40.221057,44.498724
+702,“Polyclinic №22” CJSC,Պոլիկլինիկաներ,40.171772,44.567203
+703,Martiros Saryan's park,Այգիներ,40.183494,44.510311
+704,Komitas park,Այգիներ,40.183494,44.510311
+705,Moskovyan park,Այգիներ,40.177756,44.512543
+707,Al. Tamanyan's park,Այգիներ,40.188393,44.515287
+708,Oghakadzev park,Այգիներ,40.179313,44.508895
+709,Park after F. Nansen,Այգիներ,40.1972,44.569028
+711,Sourb Astvatsatsin maternity hospital,Հիվանդանոցներ,40.169698,44.4344
+712,Children and Adults’ hospital,Հիվանդանոցներ,40.152264,44.473991
+713,Polyclinic “Arshakunyats”,Պոլիկլինիկաներ,40.155,44.501218
+714,Polyclinic ''Karmir Blur'' CJSC,Պոլիկլինիկաներ,40.146907,44.461125
+715,Polyclinic “Artashisyan”,Պոլիկլինիկաներ,40.15204,44.473581
+716,Davtashen park,Այգիներ,40.221043,44.494001
+717,Mayrutyan park,Այգիներ,40.174764,44.446506
+718,Park after Vahan Zatikyan,Այգիներ,40.17457,44.450442
+719,Park after David Anhakht,Այգիներ,40.200183,44.53873
+720,Family garden,Այգիներ,40.219373,44.563382
+722,National library of Armenia,Գրադարաններ,40.19004,44.523296
+723,Avetik Isahakyan central library,Գրադարաններ,40.178139,44.516328
+724,Avetik Isahakyan central library branch №21,Գրադարաններ,40.191994,44.509823
+725,Avetik Isahakyan central library branch №29,Գրադարաններ,40.200947,44.492978
+726,Avetik Isahakyan central library branch №27,Գրադարաններ,40.186498,44.542772
+727,Avetik Isahakyan central library branch №28,Գրադարաններ,40.209438,44.523019
+728,Avetik Isahakyan central library branch №33,Գրադարաններ,40.193061,44.484388
+729,Avetik Isahakyan central library branch №36,Գրադարաններ,40.204901,44.512699
+730,Avetik Isahakyan central library branch №15,Գրադարաններ,40.177996,44.526346
+731,Central library  №  22 of the administrative district of Kentron,Գրադարաններ,40.159784,44.464126
+732,Library №  1 of the administrative district of Avan,Գրադարաններ,40.217219,44.581712
+733,Library №  5 of the administrative district of Arabkir,Գրադարաններ,40.198405,44.497981
+734,Library №  6 of the administrative district of Arabkir,Գրադարաններ,40.224867,44.529577
+735,Library №  40 of the administrative district of Davtashen,Գրադարաններ,40.221057,44.498724
+736,Library №  3 after Okro Okroyan of the administrative district of Erebuni,Գրադարաններ,40.159556,44.512103
+737,Library № 10 of the administrative district of Erebuni,Գրադարաններ,40.177756,44.512543
+738,Library № 11,Գրադարաններ,40.142679,44.512876
+739,Central library system of Malatia-Sebastia administrative district,Գրադարաններ,40.18439,44.446427
+740,Library №  32 of the administrative district of Shengavit,Գրադարաններ,40.136855,44.487209
+741,Library №  16 of the administrative district of Shengavit,Գրադարաններ,40.1504,44.497796
+742,Library №17 named after Shushanik Kurghinyan,Գրադարաններ,40.149751,44.485992
+743,Library № 34 of the administrative district of Nubarashen,Գրադարաններ,40.119926,44.580932
+744,Central library system of Qanaqer-Zeytun administrative district,Գրադարաններ,40.206115,44.544851
+791,Nor Arabkir park,Այգիներ,40.210532,44.498202
+792,V. Davtyan's Park,Այգիներ,40.177756,44.512543
+855,Yerevan Children’s and youth’s gymnastics school of the Olympic successors after Albert Azaryan NCO,Մարզադպրոցներ,40.184431,44.52273
+856,Yerevan Children's and Youth's figure skating and ice-hockey sport school NCO,Մարզադպրոցներ,40.15598,44.455551
+857,Yerevan Children’s and Youth’s specialized sport school of handball and other game sports NCO,Մարզադպրոցներ,40.221032,44.498723
+858,Yerevan Children’s and Youth’s  school of sport and logical games NCO,Մարզադպրոցներ,40.16939,44.513143
+859,Yerevan Children’s and Youth’s complex sport school NCO,Մարզադպրոցներ,40.207485,44.509652
+860,Children’s and Youth’s sport school of Achapnyak district of Yerevan NCO,Մարզադպրոցներ,40.197006,44.475791
+861,Children's and Youth's complex sport school of Arabkir district of Yerevan NCO,Մարզադպրոցներ,40.210667,44.525776
+862,Children's and Youth's sport school of game sports of Arabkir district of Yerevan  NCO,Մարզադպրոցներ,40.203572,44.499288
+863,Children’s and Youth’s single combat sport school of Arabkir district of Yerevan NCO,Մարզադպրոցներ,40.207485,44.509652
+864,Children’s and Youth’s complex sport school of Kanaker-Zeitun district of Yerevan NCO,Մարզադպրոցներ,40.199873,44.540619
+865,Yerevan  Children’s and Youth’s complex sport school NCO,Մարզադպրոցներ,40.179928,44.503873
+866,Children’s and Youth’s complex sport school of Malatia-Sebastia district of Yerevan NCO,Մարզադպրոցներ,40.178375,44.445085
+867,Yerevan Children’s and Youth’s fencing sport school after Albert Grigoryan NCO,Մարզադպրոցներ,40.209721,44.526977
+868,Children’s and Youth’s chess school of Avan district of Yerevan NCO,Մարզադպրոցներ,40.216955,44.58222
+869,Children’s and Youth’s  complex sport school of Avan district of Yerevan NCO,Մարզադպրոցներ,40.217219,44.581712
+870,Children’s and Youth’s center for sport technique after Ashot Ghulyan NCO,Մարզադպրոցներ,40.197752,44.561373
+871,Children’s and Youth’s complex sport school of  Nork-Marash district of Yerevan NCO,Մարզադպրոցներ,40.180259,44.543413
+872,Yerevan Children’s and Youth’s complex sport school after Rudolf Karapetyan NCO,Մարզադպրոցներ,40.194533,44.567242
+873,Children's and Youth's acrobatics and rhythmic gymnastics sport school of Shengavit district of Yere,Մարզադպրոցներ,40.144577,44.488805
+874,Children’s and Youth’s complex sport school of Shengavit district of Yerevan NCO,Մարզադպրոցներ,40.144577,44.488805
+875,Children’s and Youth’s table tennis and tennis sport school of Shengavit district of Yerevan NCO,Մարզադպրոցներ,40.144577,44.488805
+892,Gold’s Gym Armenia,Մարզասրահներ,40.205722,44.508318
+893,Orange Fitness,Մարզասրահներ,40.185742,44.48156
+894,Grand Sport,Մարզասրահներ,40.146929,44.498533
+895,Aquatek,Մարզասրահներ,40.205625,44.559278
+896,Neptun Sport,Մարզասրահներ,40.177756,44.512543
+897,Aqualand,Մարզասրահներ,40.207909,44.57085
+899,“OXYLIFE” Bodyflex Center,Մարզասրահներ,40.178911,44.5067
+900,“LOTUS” Aerobic Breathing and Yoga Center,Մարզասրահներ,40.177756,44.512543
+976,Musical school after Alexander Spendiaryan,Երաժշտական և արվեստի դպրոցներ,40.174617,44.518119
+977,Musical school after Sayat Nova,Երաժշտական և արվեստի դպրոցներ,40.187879,44.516912
+978,A special vocal-choir school,Երաժշտական և արվեստի դպրոցներ,40.174617,44.518119
+979,Musical school after A. Tigranyan,Երաժշտական և արվեստի դպրոցներ,40.153337,44.479504
+980,Art school after Haikanush Danielyan,Երաժշտական և արվեստի դպրոցներ,40.199439,44.567826
+981,Musical school N1 after Sargis Aslamazyan,Երաժշտական և արվեստի դպրոցներ,40.177756,44.512543
+982,Yerevan Art school N 17 after B. Kanachyan,Երաժշտական և արվեստի դպրոցներ,40.165454,44.512629
+983,Musical school after Alexander Hekimyan,Երաժշտական և արվեստի դպրոցներ,40.204107,44.49892
+984,Art school after Ghazaros Saryan,Երաժշտական և արվեստի դպրոցներ,40.200296,44.539963
+985,Musical school after Konstantin Sarajyan,Երաժշտական և արվեստի դպրոցներ,40.209393,44.517385
+986,Musical school after Tigran Chukhajyan,Երաժշտական և արվեստի դպրոցներ,40.150882,44.520617
+987,Art school after Mikael Maluntsyan,Երաժշտական և արվեստի դպրոցներ,40.129835,44.528881
+988,Art school after Kristapor Kushnaryan,Երաժշտական և արվեստի դպրոցներ,40.186329,44.510982
+998,Marshal Baghramyan,Մետրոյի կայարաններ,40.191795,44.506006
+999,Barekamutiun metro station,Մետրոյի կայարաններ,40.193061,44.484388
+1000,Yeritasardakan,Մետրոյի կայարաններ,40.187217,44.521346
+1001,Republic Square,Մետրոյի կայարաններ,40.178525,44.515499
+1002,General Andranik,Մետրոյի կայարաններ,40.158604,44.51117
+1003,David of  Sasun,Մետրոյի կայարաններ,40.155172,44.507236
+1004,Gortsaranain,Մետրոյի կայարաններ,40.141067,44.498572
+1005,Shengavit,Մետրոյի կայարաններ,40.145192,44.484815
+1006,Garegin Nzhdeh Square,Մետրոյի կայարաններ,40.150458,44.483806
+1007,Kh. Abovian Square,Հրապարակներ,40.179313,44.508895
+1008,David of Sasun Square,Հրապարակներ,40.14147,44.534371
+1009,Republic Square,Հրապարակներ,40.179313,44.508895
+1010,Charles Aznavour Square,Հրապարակներ,40.179313,44.508895
+1011,France Square,Հրապարակներ,40.179313,44.508895
+1012,Barekamutyun Square,Հրապարակներ,40.198462,44.510373
+1013,Dyor Square,Հրապարակներ,40.189967,44.58334
+1014,Uruguay Square,Հրապարակներ,40.184328,44.499796
+1015,Stepan Shahumyan Square,Հրապարակներ,40.179313,44.508895
+1016,Azatutyan Square,Հրապարակներ,40.185456,44.514697
+1017,Ashxatank Square,Հրապարակներ,40.12739,44.446223
+1018,Brazil Square,Հրապարակներ,40.179313,44.508895
+1019,Erebuni Square,Հրապարակներ,40.14147,44.534371
+1020,Myasnikyan Square,Հրապարակներ,40.179313,44.508895
+1021,Saxarov Square,Հրապարակներ,40.179313,44.508895
+1022,Russian Square,Հրապարակներ,40.179313,44.508895
+1074,Polyclinic by K. Yesayan CJSC,Հիվանդանոցներ,40.205072,44.531608
+1075,"Children’s polyclinic ""Arabkir""",Պոլիկլինիկաներ,40.208983,44.501185
+1076,Polyclinic №16,Պոլիկլինիկաներ,40.204804,44.543006
+1077,Աջափնյակի շախմատի դպրոց,Մարզադպրոցներ,40.212408,44.466777
+1078,Davtashen chess school,Մարզադպրոցներ,40.224565,44.494726
+2048,Չարբախ մետրոյի կայարան,Մետրոյի կայարաններ,40.140561,44.470725
+2058,Park named after Missak Manouchian,Այգիներ,40.182291,44.508995
+2086,Basic school named  after Hrant Matevosyan,Դպրոցներ,40.21031,44.567499
+2087,Թիվ 58,Մանկապարտեզներ,40.220592,44.487526
+2088,Թիվ 59,Մանկապարտեզներ,40.224926,44.493197
+2089,Թիվ 60,Մանկապարտեզներ,40.216535,44.491858
+2090,Թիվ 61,Մանկապարտեզներ,40.177756,44.512543
+2091,Թիվ 62,Մանկապարտեզներ,40.177756,44.512543
+2092,Գարեգին Նժդեհի հրապարակ,Հրապարակներ,40.150997,44.483385
+2093,Թիվ 1,Մանկապարտեզներ,40.18907,44.523333
+2095,N123,Մանկապարտեզներ,40.18648,44.545097
+2097,Yerevan Musical School after A. Tsitsikyan,Երաժշտական և արվեստի դպրոցներ,40.196052,44.468378
+2098,Yerevan Art School after A. Gabrielyan,Երաժշտական և արվեստի դպրոցներ,40.192938,44.474665
+2099,Musical school after St. Jrbashyan,Երաժշտական և արվեստի դպրոցներ,40.151232,44.489224
+2100,Musical school after Al. Achemyan,Երաժշտական և արվեստի դպրոցներ,40.175504,44.441914
+2102,Musical school after K. Orbelyan,Երաժշտական և արվեստի դպրոցներ,40.177756,44.512543
+2103,Art school after A. Ter-Ghevondyan,Երաժշտական և արվեստի դպրոցներ,40.219634,44.541184
+2104,Art school after A. Terteryan,Երաժշտական և արվեստի դպրոցներ,40.177756,44.512543
+2105,Art school after S. Barkhudaryan,Երաժշտական և արվեստի դպրոցներ,40.177756,44.512543
+2106,Art school after G. Budaghyan,Երաժշտական և արվեստի դպրոցներ,40.218651,44.574736
+2107,Musical school after Robert Andreasyan,Երաժշտական և արվեստի դպրոցներ,40.18516,44.545111
+2108,Musical school after V. Mokatsyan,Երաժշտական և արվեստի դպրոցներ,40.089859,44.543215
+2110,N82,Մանկապարտեզներ,40.177756,44.512543
+2111,N19,Մանկապարտեզներ,40.18083,44.505837
+2112,N20,Մանկապարտեզներ,40.178726,44.507982
+2113,N 34,Մանկապարտեզներ,40.235277,44.55902
+2114,N 50,Մանկապարտեզներ,40.177756,44.512543
+2115,The park after Tatul Krpeyan,Այգիներ,40.177756,44.512543
+2116,N 51,Մանկապարտեզներ,40.177756,44.512543
+2117,N 66,Մանկապարտեզներ,40.177756,44.512543
+2118,N 67,Մանկապարտեզներ,40.177756,44.512543
+2119,N 68,Մանկապարտեզներ,40.136448,44.534031
+2120,N 69,Մանկապարտեզներ,40.177756,44.512543
+2121,N 70,Մանկապարտեզներ,40.177756,44.512543
+2122,N 71,Մանկապարտեզներ,40.145134,44.513985
+2123,N 72,Մանկապարտեզներ,40.127572,44.525297
+2124,N 73,Մանկապարտեզներ,40.127638,44.529653
+2125,N 76,Մանկապարտեզներ,40.177756,44.512543
+2126,N 78,Մանկապարտեզներ,40.164707,44.444767
+2127,N 86,Մանկապարտեզներ,40.188667,44.424577
+2128,N 87,Մանկապարտեզներ,40.177726,44.444238
+2129,N 95,Մանկապարտեզներ,40.178955,44.444166
+2130,N 106,Մանկապարտեզներ,40.177756,44.512543
+2131,N 107,Մանկապարտեզներ,40.192676,44.570935
+2132,N 113,Մանկապարտեզներ,40.179496,44.512739
+2133,N 124,Մանկապարտեզներ,40.185395,44.545888
+2134,N 130,Մանկապարտեզներ,40.128836,44.445475
+2135,N 134,Մանկապարտեզներ,40.147672,44.491513
+2136,N 154,Մանկապարտեզներ,40.179496,44.512739
+2137,N 160,Մանկապարտեզներ,40.210144,44.539376
+2177,The park located between Nalbandyan and Hanrapetutyan streets,Այգիներ,40.177756,44.512543
+2181,Polyclinic “Sari-Tagh”,Պոլիկլինիկաներ,40.161149,44.525488
+2182,"Polyclinic ""Nor Aresh""",Պոլիկլինիկաներ,40.143469,44.520778
+2183,Erebuni childrens and youth chess school,Մարզադպրոցներ,40.146815,44.516907
+2184,Yerevan Children’s and Youth’s sport school of tennis and badminton NCO,Մարզադպրոցներ,40.177756,44.512543
+2185,Yerevan Sport Committee NCO,Մարզադպրոցներ,40.207485,44.509652
+2186,Sport and Culture center of Nubarashen district of Yerevan NCO,Մարզադպրոցներ,40.177756,44.512543
+2187,Sport and Culture center after Torq Angegh of Yerevan NCO,Մարզադպրոցներ,40.177756,44.512543
+2188,Yerevan sport club after Vahan Zatikyan NCO,Մարզադպրոցներ,40.173526,44.456375
+2189,Children’s and Youth’s chess school of Arabkirn district of Yerevan NCO,Մարզադպրոցներ,40.207485,44.509652
+2190,Children’s and Youth’s chess school of Kentron district of Yerevan NCO,Մարզադպրոցներ,40.171877,44.522881
+2191,Children’s and Youth’s chess school of Nor Norq district of Yerevan NCO,Մարզադպրոցներ,40.177756,44.512543
+2192,Children’s and Youth’s chess school of Malatia-Sebastia district of Yerevan NCO,Մարզադպրոցներ,40.177756,44.512543
+2193,Children’s and Youth athletics school of Kentron district of Yerevan NCO,Մարզադպրոցներ,40.174299,44.5168
+2194,Library N 18 of the administrative district of Shengavit,Գրադարաններ,40.153638,44.479407
+2195,Central Library օf Nor Nork Administrative District,Գրադարաններ,40.19847,44.55778
+2196,Library N 25,Գրադարաններ,40.142109,44.541736
+2198,Shoghakat's park,Այգիներ,40.177756,44.512543
+2199,Lyon Park,Այգիներ,40.177756,44.512543
+2200,Azatamartikner's park,Այգիներ,40.185779,44.461476
+2201,Malatia park,Այգիներ,40.177756,44.512543
+2202,Tigran the Great park,Այգիներ,40.189967,44.58334
+2207,Yerevan Musical School after M. Mirzoyan,Երաժշտական և արվեստի դպրոցներ,40.212129,44.471018
+2215,School N93 after A. Manukyan,Դպրոցներ,40.215357,44.476616
+2216,special school N6,Դպրոցներ,40.177756,44.512543
+2241,Multi Wellness Center,Մարզասրահներ,40.176053,44.523854
+2243,Children's and Youth's chess school of Kanaker-Zeytun district of Yerevan,Մարզադպրոցներ,40.205607,44.54848
+2244,Yerevan Children's and Youth's complex school after Hmayak Khachatryan NCO,Մարզադպրոցներ,40.177756,44.512543
+2246,Children's and Youth's chess sport school of Nork Marash district of Yerevan,Մարզադպրոցներ,40.173807,44.541139
+2247,Shengavit Children's and Youth's chess sport school of Yerevan,Մարզադպրոցներ,40.145821,44.484485
+2248,Children's and Youth's chess sport school of Nubarashen district of Yerevan,Մարզադպրոցներ,40.088227,44.545954
+2250,Reebok Sports club Armenia,Մարզասրահներ,40.220436,44.494216
+2251,DDD Complex,Մարզասրահներ,40.206391,44.51559
+2252,Gold’s Gym Armenia,Մարզասրահներ,40.182162,44.505671
+2253,Cross Sport Complex,Մարզասրահներ,40.22136,44.458745
+2254,ProLife Fitness and Spa,Մարզասրահներ,40.176469,44.51198
+2255,Lady Zone,Մարզասրահներ,40.177756,44.512543
+2256,Lady fitness,Մարզասրահներ,40.171263,44.520525
+2257,Lady fitness,Մարզասրահներ,40.171263,44.520525
+2258,Lady fitness,Մարզասրահներ,40.209773,44.506991
+2307,School of Fine Arts after Minas Avetisyan,Երաժշտական և արվեստի դպրոցներ,40.177756,44.512543
+2322,Park after Y. Bakhshyan,Այգիներ,40.170616,44.457012
+2329,Skateboard Square,Հրապարակներ,40.189967,44.58334
+2335,Yerevan 2800th Anniversary Park,Այգիներ,40.179313,44.508895
