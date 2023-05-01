@@ -12,7 +12,7 @@ This project has three main maps that you will see in that Maps folder.
 In this map project you will find the data that was cleaned from the python code (review code section for more detaials)
 We have the following structure of Folders in the maps contents pane, with each folder having the following layer.
 - **House Points (Folder)**
-  - actual_not_sold:** Maps points of data for houses that haven't been sold yet
+  - actual_not_sold: Maps points of data for houses that haven't been sold yet
   - historical_sold: Maps points of data for houses that have been sold
 
 
