@@ -1,6 +1,6 @@
 # Real-Estate House Pricing Analysis for Yerevan Armenia
 
-### DISCLAIMER!!!: Before you clone GIT repo review README in arc_gis_capstone folder
+### DISCLAIMER!!! Before you clone GIT repo review README in arc_gis_capstone folder
 The purpose of this project is to analyze the Yerevan real estate market and provide insights into its trends, prices, and demand for different types of properties. Before we dive into the details of our analysis, we would like to acknowledge GeoVibe for providing us with the data that we used for this research. The data was collected by scraping three prominent real estate websites - list.am, estate.am, and real-estate.am. The extracted information such as ID, price, square meters, height, and other relevant details from each website using web scraping techniques. Arc-GIS is the main tool used to for the analysis regarding the prediction models. The following models were used
 
 - Generalized Linear Regression
