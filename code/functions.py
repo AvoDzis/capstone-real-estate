@@ -29,7 +29,7 @@ def get_district(lat, lng):
 
 def haversine(lon1, lat1, lon2, lat2):
     """
-    Calculate the great circle distance between two points 
+    Calculate the great circle distance between two points
     on the earth (specified in decimal degrees)
 
     :param lon1: longitude of the first point
@@ -38,22 +38,23 @@ def haversine(lon1, lat1, lon2, lat2):
     :param lat2: latitude of the second point
     :return: the distance between the two points in kilometers
     """
-    # Convert decimal degrees to radians 
+    # Convert decimal degrees to radians
     lon1, lat1, lon2, lat2 = map(radians, [lon1, lat1, lon2, lat2])
 
-    # Haversine formula 
-    dlon = lon2 - lon1 
-    dlat = lat2 - lat1 
+    # Haversine formula
+    dlon = lon2 - lon1
+    dlat = lat2 - lat1
     a = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlon/2)**2
-    c = 2 * asin(sqrt(a)) 
+    c = 2 * asin(sqrt(a))
     r = 6371  # Radius of earth in kilometers. Use 3956 for miles
     return c * r
 
 
 def read_api_key():
     """
-    Read the Google Maps API key from a file. This file should be one directory back from the script.
-    This is done for security purposes and to avoid sharing the API key with others.
+    Read the Google Maps API key from a file.
+    This file should be one directory back from the script.
+    This is done for security purposes and to avoid sharing the API key.
     File is not passed to git, by gitignore file.
 
     :return: the API key
@@ -66,11 +67,11 @@ def read_api_key():
     with open(api_key_file, 'r') as f:
         api_key = f.read().strip()
     return api_key
-      
+
 
 def get_walking_distance(start_lon, start_lat, end_lon, end_lat):
     """
-    Calculate the walking distance between two points using the Google Maps API.
+    Calculate the walking distance between two points using the Google Maps API
 
     :param start_lon: longitude of the start point
     :param start_lat: latitude of the start point
@@ -100,7 +101,7 @@ def get_walking_distance(start_lon, start_lat, end_lon, end_lat):
 
 def remove_outliers(df, col, lower_bound):
     """
-    Removes outliers from a dataframe based on the IQR method. 
+    Removes outliers from a dataframe based on the IQR method.
     Data is grouped by district, the outliers are detected for each district.
 
     :param df: The dataframe to remove outliers from
