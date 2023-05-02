@@ -100,7 +100,8 @@ def get_walking_distance(start_lon, start_lat, end_lon, end_lat):
 
 def remove_outliers(df, col, lower_bound):
     """
-    Removes outliers from a dataframe based on the IQR method. Data is grouped by district.
+    Removes outliers from a dataframe based on the IQR method. 
+    Data is grouped by district, the outliers are detected for each district.
 
     :param df: The dataframe to remove outliers from
     :param col: The column to remove outliers from
@@ -125,7 +126,7 @@ def remove_outliers(df, col, lower_bound):
 
 def apply_jitter(coord, distance):
     """
-    Apply jitter to a coordinate (latitude or longitude).
+    Apply jitter to a coordinate (latitude and longitude).
 
     :param coord: Input coordinate (float)
     :param distance: Maximum distance to apply jitter (float)
