@@ -19,7 +19,7 @@ We have the following structure of Folders in the maps contents pane, with each 
   - districts_glr: results from the district GLR
   - neighborhoods_glr: results from the neighborhood GLR
   - **Multivariate Clustering**
-    - multi_cluster: Maps points of data for houses grouped by the clusters formed by the model
+    - historical_multi_cluster: Maps points of data for houses grouped by the clusters formed by the model
     - multi_cluster_glr: results from the Multivariate Clustering GLR
 - **Geographically Weighted Regression**
   - historical_sold_sqmt_gwr: results from the GWR model
@@ -37,13 +37,33 @@ We have the following structure of Folders in the maps contents pane, with each 
   - Forest Prediction: contains price prediction by the optimized FBCR for validation/test data (actual_not_sold)
   - GWR Prediction: contains price prediction by the GWR for validation/test data (actual_not_sold)
 
-### Model Builder
-This map also has the following ModelBuilders for the GLR prediction. You can see this looking at the catalog pane on the right...
+**Note**: The baseline GLR model, GWR model, baseline FBCR model, and Reduced FBCR model were all pyt together from the geoprocessing pane in ArcGIS, and you can find all of their details from the history pane on the right, by searching for each model. The modified GLR models were put together using the ModelBuilder tool in ArcGIS.
 
-1. 
+### Model Builder
+This map also has the following ModelBuilders for the GLR prediction. You can see this looking at the catalog pane on the right by expanding the toolboxes folder.
+1. **GLR by Districts**: GLR model that is trained based on each districts in Yerevan
+2. **GLR by Neighborhood**: GLR model that is trained based on each neighborhood in Yerevan
+3. **Multivariate Clustering GLR**: GLR model that is trained based on clusters of data points that was given by the Multivariate Clustering model
+4. **New Homes Prediction GLR**: Uses the trained neighborhood GLR model to predict prices of new homes based on each neighborhood.
 
 ## Map 2: Historical Data Analysis
-
-
+This Map contains 2D analysis of the houses that were sold (historical_sold.csv). It is mainly used to identify the ideal spots in real-estate investment, and finding locations of hotspots around the city that can be helpful for future businesses. In the contens pane you will find the following structure.
+- historical_sold: Maps points of data for houses that have been sold
+- sales_count: hexagon disivision of the map of Yerevan, to identify the hexagons that the most sales occur for
+- sold_STC_2D: 2-dimensional Space-Time-Cube for the sales of houses on the Map of Yerevan.
+- hot_spots: Contains the Emerging hotspot analysis for the space-time-cube hexagons, to identify, which hexagons are...
+  - New Hot Spots
+  - Persistent Hot Spots
+  - Sporadic Hot Spots
+  - No Pattern Detected
+- DBSCAN: 
+- ideal: 
 
 ## Map 3: Space-Time-Cube
+This map contains 3D visual analysis of the spatiotemporal data for real-estate house sales in Yerevan.
+- sold_STC_3D: 3D Space-Time-Cubes triggered on a tri-weekly basis, with each hexagon spanning 800m^2 of area. Space-Time-Cube was triggered based on the count for each hexagon, thus the darker the color of the hexagon, the more houses were sold in that hexagon over it's specified three weeks.
+- hot_spots: Contains the Emerging hotspot analysis for the space-time-cube hexagons, to identify, which hexagons are...
+  - New Hot Spots
+  - Persistent Hot Spots
+  - Sporadic Hot Spots
+- sold_STC_hot_spo_SpatialJoin:  3D Space-Time-Cubes triggered on a tri-weekly basis, with each hexagon spanning 800m^2 of area. Space-Time-Cube was triggered based on the hot and cold spots for each hexagon, thus the darker the color of the hexagon, the more confident the model is that the hexagon is a hotspot.
