@@ -1,3 +1,5 @@
 .DS_Store
 maps_api.txt
 arc_gis_capstone/arc_gis_capstone.gdb
+.idea
+.ipynb_checkpoints
