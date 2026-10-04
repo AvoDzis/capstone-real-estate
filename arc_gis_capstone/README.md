@@ -1,7 +1,13 @@
-# IMPOTANT!!!
-Before you clone the repository visit this link: https://drive.google.com/file/d/1MymauTevvZehY6RaoD9zel2kKvV7Xl0P/view?usp=sharing
+# ArcGIS Pro project
 
-Load the folder arc_gis_capstone.gdb in this exact directory so you can have the geodatabse necessary for arcgis
+Opening this project needs ArcGIS Pro (Windows, paid licence) and the project geodatabase.
+
+The geodatabase (`arc_gis_capstone.gdb`) is too large for the repo. Download it from [Google Drive](https://drive.google.com/file/d/1MymauTevvZehY6RaoD9zel2kKvV7Xl0P/view?usp=sharing) and put the `arc_gis_capstone.gdb` folder in this directory (it's git-ignored).
+
+Notes:
+- The offline basemap package (`.vtpk`) isn't included, because it was an export of Esri's World Navigation Map. Use any online Esri basemap instead.
+- Geoprocessing logs, the scratch geodatabase and ArcGIS index/backups are local-only and git-ignored.
+- `MoransI_Result_*.html` is the Global Moran's I report. `sold_STC.nc` is the Space-Time Cube. `comp_price1.*` is a shapefile of the validation-set price predictions.
 
 # ArcGIS project outline
 

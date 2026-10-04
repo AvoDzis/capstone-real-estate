@@ -1,28 +1,66 @@
-# Real-Estate House Pricing Analysis for Yerevan Armenia
+# Real-Estate Price Analysis & Prediction for Yerevan, Armenia
 
-### DISCLAIMER!!! Before you clone GIT repo review README in arc_gis_capstone folder
-The purpose of this project is to analyze the Yerevan real estate market and provide insights into its trends, prices, and demand for different types of properties. Before we dive into the details of our analysis, we would like to acknowledge GeoVibe for providing us with the data that we used for this research. The data was collected by scraping three prominent real estate websites - list.am, estate.am, and real-estate.am. The extracted information such as ID, price, square meters, height, and other relevant details from each website using web scraping techniques. Arc-GIS is the main tool used to for the analysis regarding the prediction models. The following models were used
+My BS in Data Science capstone at the American University of Armenia (spring 2023). It was a team project with Davit Nazlukhanyan, supervised by Pakrad Balabanian. The full write-up is [`research_paper.pdf`](research_paper.pdf).
 
-- Generalized Linear Regression
-- Geographically Weighted Regression
-- Forest Based Classigfication & Regressions
+**Question:** which spatial data science technique predicts apartment sale prices in Yerevan best, and how can the results be visualised and validated?
 
-All of these models are native to ArcGIS, and the explanation of how each of these models work is outlined in the paper.Furthermore, you can find more information regarding how each of these models were modified to better fit the context of the data for Armenia, in the paper. It is important to mention as well that we have two versions of the raw data initially.
+## What we did
 
-1. **Yerevan historical:** which includes the data that has been being scraped over time, but has disappeared from lisitings thus being classified as a house that was 'sold'
-2. **Yerevan actual:** which includes the data with houses that were up to March 13th 2023 listed as active and ready to be sold.
+1. **Cleaning and feature engineering (Python, Jupyter).** We started from listings scraped from list.am, estate.am and real-estate.am, from August 2022 to March 2023. We removed duplicates, then added features:
+   - the district, by reverse geocoding with Nominatim
+   - the nearest metro station (haversine distance)
+   - the walking distance to that station (Google Maps Directions API)
+   - the neighbourhood (Google Geocoding API)
 
-You can find these files the under Database/raw_data folder.
+   Outliers were removed per district with the IQR rule, and coordinates were jittered before mapping.
+2. **Modelling (ArcGIS Pro).** We trained three regression models on listings that had disappeared from the sites (treated as "sold"):
+   - Generalized Linear Regression (GLR): a baseline, plus per-district, per-neighbourhood and multivariate-clustering variants built in ModelBuilder
+   - Geographically Weighted Regression (GWR)
+   - Forest-based Classification and Regression (FBCR)
 
-In the paper, we have provided a comprehensive overview of the project, including the research objectives, the methodology used, and the results obtained. We have also included details of our data cleaning and preprocessing techniques, as well as information on how we generated the additional features using Arc-GIS, Google Maps API, and the Nominatim package. Our project will be of interest to anyone looking to gain insights into the Yerevan real estate market, and we hope that it will be a useful resource for researchers, policymakers, and other stakeholders.
+   Listings still active on 13 March 2023 served as validation data.
+3. **Spatio-temporal analysis (ArcGIS Pro).** A Space-Time Cube of sales, emerging hot-spot analysis, and Moran's I spatial autocorrelation.
+4. **Evaluation (Python).** We compared the models on MAE, RMSE, R² and residuals.
 
-## Folders
-There are three main folders for this project.
+## Results
 
-1. **code:** This folder contains the code used for the project. The code includes Python scripts for data cleaning, data preparation, feature engineering, and  analysis of the model results.
+From `code/predicted_price_analysis.ipynb`, run on the CSVs in `database/predicted_data/`. Prices are in USD.
 
-2. **database:** This folder contains the raw data provided by GeoVibe, as well as the processed data that was used for model building and analysis.
+| Model | R² (training, "sold") | RMSE (training) | R² (validation, active listings) | RMSE (validation) |
+|---|---|---|---|---|
+| GLR (per neighbourhood) | 0.67 | 46,278 | 0.46 | 66,810 |
+| GWR | 0.74 | 41,259 | 0.64 | 55,019 |
+| FBCR | **0.92** | **22,734** | **0.75** | **45,632** |
 
-3. **arc_gis_project:** This folder contains the ArcGIS project files, which include the maps, layers, and models that were built for this project.
+FBCR was the most accurate. All three models do noticeably worse on the validation set than on the training data.
 
-You can find more information regarding each file if you click on the folders and review the README file there
+## Repo layout
+
+| Folder | Contents |
+|---|---|
+| [`code/`](code) | `functions.py` helpers and the Jupyter notebooks for cleaning, combining and evaluating ([details](code/README.md)) |
+| [`database/`](database) | Cleaned and model-output CSVs. The raw scraped data isn't included ([details](database/README.md)) |
+| [`arc_gis_capstone/`](arc_gis_capstone) | The ArcGIS Pro project (`.aprx`), toolbox, Space-Time Cube and exported results ([details](arc_gis_capstone/README.md)) |
+| `research_paper.pdf` | The capstone paper |
+
+## Running it
+
+```bash
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+jupyter notebook code/
+```
+
+- `predicted_price_analysis.ipynb` runs on the CSVs in `database/`.
+- The cleaning notebooks need the raw GeoVibe data, which isn't included. They also need a Google Maps API key in a `maps_api.txt` file at the repo root (git-ignored). See [`code/README.md`](code/README.md).
+- The ArcGIS part needs ArcGIS Pro (Windows, paid licence). It also needs the project geodatabase, which is too large for the repo; see [`arc_gis_capstone/README.md`](arc_gis_capstone/README.md).
+
+## Limitations
+
+- This is a student project, not a reusable pipeline. The cleaning notebooks read and write intermediate files, and some of those (e.g. `Yerevan.xlsx`, `sale_combined_neighborhood.csv`) aren't in the repo.
+- "Sold" is a proxy: a listing that disappeared from the sites was counted as sold.
+- The modelling lives in ArcGIS Pro, so it can't be reproduced without an ArcGIS licence.
+
+## Data credit
+
+The listing data was collected and provided by **GeoVibe**, who scraped list.am, estate.am and real-estate.am. The raw data isn't redistributed here. Only cleaned, derived and model-output data is included.

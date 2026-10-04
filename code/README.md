@@ -1,15 +1,19 @@
 # Documentation for the code
 
-
+## Running the notebooks
+- Run them from inside `code/`. They use relative paths like `../database/...`.
+- `predicted_price_analysis.ipynb` runs on the CSVs in `database/predicted_data/` as-is.
+- `yerevan_historical_cleaning.ipynb` and `yerevan_actual_cleaning.ipynb` need the raw GeoVibe files in `database/raw_data/`, which aren't included (see [database/README.md](../database/README.md)).
+- The cleaning and combining notebooks call the Google Maps APIs (Directions and Geocoding). Put your own key in a file named `maps_api.txt` at the repo root. It's git-ignored, so the key never gets committed. These calls run once per listing, so they cost API quota.
 
 ## functions.py
 This file includes the main functions that were imported to all of the files mentioned below:
-- **get_districts(lat, long)**: Uses Nominatim package to reverse geocode the coordinates (lat, long) to get the district.
+- **get_district(lat, lng)**: Uses Nominatim package to reverse geocode the coordinates (lat, long) to get the district.
 - **haversine(lon1, lat1, lon2, lat2)**: Calculate the great circle distance between two coordinate points on earth (specified in decimal degrees)
-- **read_api_key()**: Read the Google Maps API key from a file. This file should be one directory back from the script. This is done for security purposes and to avoid sharing the API key with others. File is not passed to git, by gitignore file.
+- **read_api_key()**: Reads the Google Maps API key from `maps_api.txt` in the parent of the current working directory (the repo root when you run from `code/`). The file is git-ignored, so the key stays out of the repo.
 - **get_walking_distance(start_lon, start_lat, end_lon, end_lat)**: Calculate the walking distance between two points using the Google Maps API. Starting coordinate is each and every house in the data, the ending coordinate is the coordinate of their closest metro.
 - **remove_outliers(df, col, lower_bound)**: Removes outliers from a dataframe based on the IQR method. Data is grouped by district, the outliers are detected for each district.
-- **apply_jitter(coordm distance)**: Apply jittering to a coordinate (latitude and longitude).
+- **apply_jitter(coord, distance)**: Apply jittering to a coordinate (latitude and longitude).
 
 ## yerevan_historical_cleaning.ipynb & yerevan_actual_cleaning.ipynb
 These two files can grouped together as they perform the same exact operations on the raw data for the hisorical houses that have been scraped (sold houses) and the actual houses (the houses that were still active untill March 13th 2023)

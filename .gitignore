@@ -1,5 +1,27 @@
+# OS / editor
 .DS_Store
+.idea/
+.vscode/
+~$*
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Secrets: the Google Maps API key is read from this file (see code/README.md)
 maps_api.txt
-arc_gis_capstone/arc_gis_capstone.gdb
-.ipynb_checkpoints
-.idea
+.env
+
+# Raw scraped data (not redistributed, see database/README.md)
+database/raw_data/
+
+# ArcGIS: geodatabase is downloaded separately; logs, scratch and caches are local only
+arc_gis_capstone/arc_gis_capstone.gdb/
+arc_gis_capstone/scratch.gdb/
+arc_gis_capstone/GpMessages/
+arc_gis_capstone/ImportLog/
+arc_gis_capstone/Index/
+arc_gis_capstone/.backups/
+*.vtpk
